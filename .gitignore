@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/webapp/StudentRecordManagementSystem/StudentRecordManagementSystem/obj
+/webapp/StudentRecordManagementSystem/StudentRecordManagementSystem/bin
+/webapp/StudentRecordManagementSystem/StudentRecordManagementSystemEF/obj
+/webapp/StudentRecordManagementSystem/StudentRecordManagementSystemEF/bin
+
